@@ -1,0 +1,12 @@
+.single-container {
+  display: flex;
+  flex-direction: row;
+}
+.domain-setting {
+  color: #64748b;
+}
+.delete-icon-setting {
+  height: 10px;
+  width: 10px;
+  color: #475569;
+}

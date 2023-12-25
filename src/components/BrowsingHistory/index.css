@@ -1,0 +1,42 @@
+.the-entire-box {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.upper-section {
+  background-color: #3367d6;
+  height: 20vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.o-setting {
+  height: 12px;
+  width: 12px;
+}
+.search-icon-setting {
+  height: 12px;
+  width: 12px;
+}
+.upper-second {
+  display: flex;
+  flex-direction: row;
+}
+.top-search-input {
+  background-color: #2850a7;
+  width: 120px;
+  height: 14px;
+}
+.upper-search-image {
+  background-color: #2850a7;
+  height: 14px;
+  width: 50px;
+}
+.lower-portion {
+  height: 50vh;
+  width: 80vw;
+  background-color: #ffffff;
+}
